@@ -1,4 +1,4 @@
-# Hello! 👋 I'm [Artjoms Senins]
+# Hello! 👋 I'm Artjoms Senins
 
 🎓 2st-year Bachelor's student at LUT University (Finland) | Aspiring AI/ML Specialist
 💻 Currently building my foundation in Machine Learning
